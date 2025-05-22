@@ -17,11 +17,11 @@ I'm an visually motivated **Digital Content Lead and CMS Developer** with 8+ yea
 ---
 
 ### 🛠️ Tech Stack & Tools
-**CMS Platforms:** AEM • WordPress • Salesforce • Shopifiy • Core Media • Drupal
-**Frontend:** HTML • CSS • JavaScript • Python  
-**Design & Assets:** Adobe Creative Suite • Figma • DAM Systems • PIM
-**Analytics:** Google Analytics • Content Square • Adobe Analytics • Hotjar
-**Workflow & Dev:** Trello • JIRA • Asana • Workfront • Monday
+- **CMS Platforms:** AEM • WordPress • Salesforce • Shopifiy • Core Media • Drupal <br>
+- **Frontend:** HTML • CSS • JavaScript • Python <br>
+- **Design & Assets:** Adobe Creative Suite • Figma • DAM Systems • PIM <br>
+- **Analytics:** Google Analytics • Content Square • Adobe Analytics • Hotjar <br>
+- **Workflow & Dev:** Trello • JIRA • Asana • Workfront • Monday <br>
 
 ### 🛠️ Languages & Tools
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
