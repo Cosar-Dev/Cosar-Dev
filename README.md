@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Cosar Farah
 
-### 🌐 Digital Content Lead turned Dev
+### 🌐 Digital Content Lead | CMS Developer | Web & Asset Management 
 
 I'm an experienced **Digital Content Lead and CMS Developer** with 8+ years of experience managing and deploying content across **Tech, Fashion, and Finance** platforms. I've worked with brands like **Barclays**, **Samsung**, and **Deckers (UGG, HOKA, TEVA)** My background spans **AEM**, **WordPress**, and **Salesforce CMS**, paired with front-end skills in **HTML**, **CSS**, **JavaScript**, and **Python**.
 
