@@ -4,13 +4,17 @@
 
 I'm an visually motivated **Digital Content Lead and CMS Developer** with 8+ years of experience managing and deploying content across **Tech, Fashion, and Finance** platforms. I've worked with brands like **Barclays**, **Samsung**, and **Deckers (UGG, HOKA, TEVA)** My background spans **AEM**, **WordPress**, and **Salesforce CMS**, paired with front-end programming skills.
 
+I'm an visually motivated Digital Content Lead and CMS Developer with 8+ years of managing and deploying content across **Tech, Fashion, and Finance** sectors. I've contributed to global world class editoral content and execution for brands like **Barclays, Samsung, Deckers (UGG, HOKA, TEVA) and John Lewis**, managing high-volume content pipelines, digital transformation, technical deployment, design development and site wide migrations.
+
+My core expertise lies in headless CMS platforms including Adobe Experience Manager (AEM), WordPress, Salesforce, Drupal, Core Media, and Shopify—alongside front-end programms like HTML and CSS. I’ve led web operations, digital production, and UI implementation across cross-functional teams, ensuring content is not only well-managed but also user-optimized, accessible, and performance-driven.
+
 ---
 
 ### 💼 Career Snapshot
 - 🏦 **Barclays** – *Digital Content Manager* (2022–2023)  
 - 📱 **Samsung** – *Digital Content Manager* (2021–2022)  
 - 👟 **Deckers** – *Digital Content Producer* (2019–2021)  
-- 👟 **Deckers** – *Jr. Digital Content Producer* (2018–2019)  
+- 👟 **Deckers** – *Jr Digital Content Producer* (2018–2019)  
 - 🛍️ **John Lewis** – *Assistant Online Merchandiser* (2017–2018)  
 - 🛍️ **John Lewis** – *Online Product Assistant* (2016–2017)
 
@@ -45,7 +49,6 @@ I'm an visually motivated **Digital Content Lead and CMS Developer** with 8+ yea
 ![SEO](https://img.shields.io/badge/-SEO-4CAF50?style=flat&logo=google&logoColor=white)
 
 
-
 ---
 
 ### 📫 Let's Connect!
@@ -53,4 +56,7 @@ I'm an visually motivated **Digital Content Lead and CMS Developer** with 8+ yea
 🌐 [LinkedIn](www.linkedin.com/in/cosar-farah)
 📄 [View My CV](./Cosar_Farah_CV.pdf)
 
+[![Email](https://img.shields.io/badge/Email-Cosar_F@hotmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Cosar_F@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cosar%20Farah-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cosar-farah)
+[![CV](https://img.shields.io/badge/View%20My%20CV-PDF-orange?style=flat&logo=adobeacrobatreader&logoColor=white)](./Cosar_Farah_CV.pdf)
 
