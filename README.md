@@ -27,6 +27,17 @@ My core expertise lies in headless CMS platforms including Adobe Experience Mana
 - **Analytics:** Google Analytics • Content Square • Adobe Analytics • Hotjar <br>
 - **Workflow & Dev:** Trello • JIRA • Asana • Workfront • Monday <br>
 
+---
+
+### 🧩 Freelance Services
+- 🔧 CMS implementation, migration & setup  
+- 🧠 Digital transformation, briefing & content delivery 
+- 🌍 Workflows optimisation & asset management  
+- 📈 SEO-ready content, QA, and performance tracking  
+- 🎯 Cross-functional team support (design/dev/marketing)
+
+---
+
 ### 🛠️ Languages & Tools
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
