@@ -62,6 +62,14 @@ My core expertise lies in headless CMS platforms including Adobe Experience Mana
 
 ---
 
+### 🌟 About Me – Beyond the Code
+
+- 🌍 Traveled to **40+ countries** — I thrive on cultural discovery and global inspiration
+- 🏝️ Island hopper — Always chasing sunshine, sea views, and strong Wi-Fi 
+- 🍵 Matcha lover — My choice of fuel, essential to my workflow
+- 👡 Fashion enthusiast — I believe style is an extension of personal branding
+- 💪🏾 Gym goer — Health is wealth 
+
 ### 📫 Let's Connect!
 📧 [![Email](https://img.shields.io/badge/Email-Cosar_F@hotmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Cosar_F@hotmail.com)
 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cosar%20Farah-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cosar-farah)
