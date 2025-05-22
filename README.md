@@ -2,9 +2,9 @@
 
 ### 🌐 Digital Content Lead | CMS Developer | Web & Asset Management 
 
-I'm an visually motivated **Digital Content Lead and CMS Developer** with 8+ years of experience managing and deploying content across **Tech, Fashion, and Finance** platforms. I've worked with brands like **Barclays**, **Samsung**, and **Deckers (UGG, HOKA, TEVA)** My background spans **AEM**, **WordPress**, and **Salesforce CMS**, paired with front-end programming skills.
+---
 
-I'm an visually motivated Digital Content Lead and CMS Developer with 8+ years of managing and deploying content across **Tech, Fashion, and Finance** sectors. I've contributed to global world class editoral content and execution for brands like **Barclays, Samsung, Deckers (UGG, HOKA, TEVA) and John Lewis**, managing high-volume content pipelines, digital transformation, technical deployment, design development and site wide migrations.
+I'm an visually motivated Digital Content Lead and CMS Developer with 8+ years of managing and deploying content across **Tech, Fashion, and Finance** sectors. I've contributed to world class editoral content and execution for global brands including **Barclays, Samsung, Deckers (UGG, HOKA, TEVA) and John Lewis**, managing high-volume content pipelines, digital transformation, technical deployment, design development and site wide migrations.
 
 My core expertise lies in headless CMS platforms including Adobe Experience Manager (AEM), WordPress, Salesforce, Drupal, Core Media, and Shopify—alongside front-end programms like HTML and CSS. I’ve led web operations, digital production, and UI implementation across cross-functional teams, ensuring content is not only well-managed but also user-optimized, accessible, and performance-driven.
 
