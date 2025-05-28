@@ -15,7 +15,7 @@ My core expertise lies in headless CMS platforms including **Adobe Experience Ma
 - 🏦 **Barclays** – *Digital Content Manager* (2022–2023)  
 - 📱 **Samsung** – *Digital Content Manager* (2021–2022)  
 - 👟 **Deckers** – *Digital Content Producer* (2019–2021)  
-- 👟 **Deckers** – *Jr.Digital Content Producer* (2018–2019)  
+- 👟 **Deckers** – *Jr Digital Content Producer* (2018–2019)  
 - 🛍️ **John Lewis** – *Assistant Online Merchandiser* (2017–2018)  
 - 🛍️ **John Lewis** – *Online Product Assistant* (2016–2017)
 
@@ -31,11 +31,11 @@ My core expertise lies in headless CMS platforms including **Adobe Experience Ma
 ---
 
 ### 🧩 Freelance Services
-- 🌐 Web Consultation, Customer Journey Analysis & Digital Audits 
-- 🔧 CMS Implementation, Migration & Web Setup  
-- 🧠 Digital Transformation, Briefing & Content Delivery 
+- 🌐 Web Consultation • Customer Journey Analysis & Digital Audit 
+- 🔧 CMS Implementation • Migration & Web Setup  
+- 🧠 Digital Transformation • Briefing & Content Delivery 
 - 🌍 Workflows Optimisation & Asset Management  
-- 📈 SEO-Ready Content, QA, & Performance Tracking  
+- 📈 SEO-Ready Content • Quality Control & Performance Tracking  
 - 🎯 Cross-functional Team Support (design/dev/marketing)
 
 ---
