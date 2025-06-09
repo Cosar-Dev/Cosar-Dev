@@ -1,4 +1,4 @@
-# 👋🏾 Hi, I'm Cosar Farah
+# 👋🏾 Hi, I'm Cosar 
 
 ### 🌐 Digital Content Lead | CMS Developer | Web & Asset Management 
 
