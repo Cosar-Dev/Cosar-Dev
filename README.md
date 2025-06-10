@@ -14,8 +14,8 @@ My core expertise lies in headless CMS platforms including **Adobe Experience Ma
 - 🌍 **Career Break** – *Travelling Asia, Australia, Africa, Europe, and the Middle East* (2023–2024) 
 - 🏦 **Barclays** – *Digital Content Manager* (2022–2023)  
 - 📱 **Samsung** – *Digital Content Manager* (2021–2022)  
-- 👟 **Deckers** – *Digital Content Producer* (2019–2021)  
-- 👟 **Deckers** – *Jr Digital Content Producer* (2018–2019)  
+- 👟 **Deckers** (UGG, HOKA, TEVA) – *Digital Content Producer* (2019–2021)  
+- 👟 **Deckers** (UGG, HOKA, TEVA) – *Jr Digital Content Producer* (2018–2019)  
 - 🛍️ **John Lewis** – *Assistant Online Merchandiser* (2017–2018)  
 - 🛍️ **John Lewis** – *Online Product Assistant* (2016–2017)
 
