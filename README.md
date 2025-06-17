@@ -4,7 +4,7 @@
 
 ---
 
-I'm an visually motivated **Digital Content Lead, CMS Developer, Web & Digital Asset Management** committed to helping e-commerce businesses elevate their platforms and create impactful digital content such as responsive webpages, visually compelling imagery and banners, innovative products, and seamless online experiences.
+I'm an visually motivated **Digital Content Lead, CMS Developer, Web & Digital Asset Management** committed to helping e-commerce businesses elevate their platforms to next level and create impactful digital content.
 
 With 8+ years of managing and deploying content across **Tech, Fashion, and Finance** sectors. I've contributed to world class editoral content and execution for global brands including **Barclays, Samsung, Deckers (UGG, HOKA, TEVA) and John Lewis**, managing high-volume content pipelines, digital transformation, technical deployment, design development and site wide migrations.
 
@@ -33,12 +33,15 @@ My core expertise lies in headless CMS platforms including **Adobe Experience Ma
 ---
 
 ### 🧩 Freelance Services
-- 🌐 Web Consultation • Customer Journey Analysis & Digital Audit 
-- 🔧 CMS Implementation • Migration & Web Setup  
-- 🧠 Digital Transformation • Briefing & Content Delivery 
-- 🌍 Workflows Optimisation & Asset Management  
-- 📈 SEO-Ready Content • Quality Control & Performance Tracking  
-- 🎯 Cross-functional Team Support (design/dev/marketing)
+
+- 🌐 Web Consultation • CMS Implementation
+- 🔧 Web Setup • Responsive Design • Optimisation
+- 🧠 Asset Management • Content Delivery • UI
+- 📈 SEO-Ready Content • A/B Testing • Analytics
+- 🌍 Workflows Optimisation • Briefing • Design Execution
+- ✍️ Migration • Digital Transformation • Technical Deployment  
+- 🎯 Cross-functional Team Support (design/dev/marketing)/product)
+- 🧪 Performance Tracking • QA • Customer Journey Analysis & Digital Audit 
 
 ---
 
