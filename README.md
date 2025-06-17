@@ -1,6 +1,6 @@
-# 👋🏾 Hi, I'm Cosar 
+# 👋🏾 Hi, I'm Hire Me
 
-### 🌐 Digital Content Lead | CMS Developer | Web & Asset Management 
+### 🌐 Digital Content Lead | CMS Developer | Web & Digital Asset Management 
 
 ---
 
