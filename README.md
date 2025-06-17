@@ -1,4 +1,4 @@
-# 👋🏾 Hi, I'm Hire Me
+# 👋🏾 Hi, Hire Me
 
 ### 🌐 Digital Content Lead | CMS Developer | Web & Digital Asset Management 
 
