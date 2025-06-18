@@ -1,6 +1,6 @@
 # 👋🏾 Hi, Hire Me
 
-### 🌐 Digital Content Lead | CMS Developer | Web & Digital Asset Management 
+### 🌐 Digital Content Lead | CMS Developer | Web & Digital Asset Manager
 
 ---
 
