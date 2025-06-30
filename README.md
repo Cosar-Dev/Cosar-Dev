@@ -4,9 +4,9 @@
 
 ---
 
-I'm a visually motivated **Digital Content Lead, CMS Developer, Web & Digital Asset Management** committed to helping e-commerce businesses elevate their platforms to the next level and create impactful digital content. With over 8 years of experience managing and deploying content across the Tech, Fashion, and Finance sectors. I've contributed to world class editoral content and execution for global brands including **Barclays, Samsung, Deckers (UGG, HOKA, TEVA) and John Lewis**, managing high-volume content pipelines, digital transformation, technical deployment, design development and site wide migrations.
+I'm a visually motivated **Digital Content Lead, CMS Developer, Web & Digital Asset Management** committed to helping e-commerce businesses elevate their platforms to the next level and create impactful digital content. With over 8 years of experience managing and deploying content across the Tech, Fashion, and Finance sectors. I've contributed to world class editorial content and execution for global brands including **Barclays, Samsung, Deckers (UGG, HOKA, TEVA) and John Lewis**, managing high-volume content pipelines, digital transformation, technical deployment, design development and site wide migrations.
 
-My core expertise lies in headless CMS platforms including **Adobe Experience Manager (AEM), WordPress, Salesforce, Drupal, Core Media, and Shopify** alongside front-end programms like HTML and CSS. I’ve led web operations, digital production, and UI implementation across cross functional teams, ensuring content is not only well managed but also user optimised, accessible, and performance driven.
+My core expertise lies in headless CMS platforms including **Adobe Experience Manager (AEM), WordPress, Salesforce, Drupal, Core Media, and Shopify** alongside programming languages like HTML and CSS. I’ve led web operations, digital production, and UI implementation across cross functional teams, ensuring content is not only well managed but also user optimised, accessible, and performance driven.
 
 ---
 
