@@ -77,6 +77,6 @@ My core expertise lies in headless CMS platforms including **Adobe Experience Ma
 
 ### 📫 Let's Connect!
 📧 [![Email](https://img.shields.io/badge/Email-Cosarbusiness@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Cosarbusiness@gmail.com)
-🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cosar%20Farah-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cosar-farah)
+🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cosar%20-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cosar-f)
 📄 [![CV](https://img.shields.io/badge/View%20My%20CV-PDF-orange?style=flat&logo=adobeacrobatreader&logoColor=white)](./Cosar_Farah_CV.pdf)
 
