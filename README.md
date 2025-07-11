@@ -23,7 +23,7 @@ My core expertise lies in headless CMS platforms including **Adobe Experience Ma
 
 ### 🛠️ Tech Stack & Tools
 - **CMS Platforms:** AEM • WordPress • Salesforce • Shopify • Core Media • Drupal <br>
-- **Frontend:** HTML • CSS • JavaScript • Python <br>
+- **Frontend:** HTML • CSS <br>
 - **Design & Assets:** Adobe Creative Suite • Figma • DAM Systems • PIM <br>
 - **Analytics:** Google Analytics • Content Square • Adobe Analytics • Hotjar <br>
 - **Workflow & Dev:** Trello • JIRA • Asana • Workfront • Monday <br>
