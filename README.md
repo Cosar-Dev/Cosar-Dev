@@ -1,6 +1,6 @@
-# 👋🏾 Hi, Hire Me | Ex-Barclays · Ex-Samsung · Ex-HOKA
-
 ### 🌐 Digital Content Lead | CMS Developer | Web & Digital Asset Manager
+
+#Ex-Barclays · Ex-Samsung · Ex-HOKA
 
 ---
 
