@@ -1,4 +1,4 @@
-# 👋🏾 Hi, I'm Available For Hire | Ex-Barclays, Ex-Samsung, Ex-HOKA
+# 👋🏾 Hi, I'm Available For Hire | Ex-Barclays · Ex-Samsung · Ex-HOKA
 
 
 ### 🌐 Digital Content Lead | CMS Developer | Web & Digital Asset Manager
