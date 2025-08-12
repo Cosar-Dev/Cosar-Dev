@@ -11,7 +11,7 @@ My core expertise lies in headless CMS platforms including **Adobe Experience Ma
 
 ### 💼 Career Snapshot
 - 🌍 **Career Break** – *Travelling Asia, Australia, Africa, Europe, and the Middle East* (2023–2024) 
-- 🏦 **Barclays** – *Digital Content Manager* (2022–2023)  
+- 🏦 **Barclays** – *Assistant Vice President, Digital Content Manager* (2022–2023)  
 - 📱 **Samsung** – *Digital Content Manager* (2021–2022)  
 - 👟 **Deckers** – *Digital Content Producer* (2019–2021)  
 - 👟 **Deckers** – *Jr Digital Content Producer* (2018–2019)  
