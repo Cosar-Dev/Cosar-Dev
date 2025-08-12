@@ -17,6 +17,7 @@ My core expertise lies in headless CMS platforms including **Adobe Experience Ma
 - 👟 **Deckers** – *Jr Digital Content Producer* (2018–2019)  
 - 🛍️ **John Lewis** – *Assistant Online Merchandiser* (2017–2018)  
 - 🛍️ **John Lewis** – *Online Product Assistant* (2016–2017)
+- 🎓 Internships –  Stella McCartney, Liberty, Reiss
 
 ---
 
