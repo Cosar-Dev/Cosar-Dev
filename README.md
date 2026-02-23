@@ -5,7 +5,7 @@
 
 I'm a visually motivated **Digital Content Lead, CMS Developer, Web & Digital Asset Management** committed to helping e-commerce businesses elevate their platforms to the next level and create impactful digital content. With over 8 years of experience managing and deploying content across the Tech, Fashion, and Finance sectors. I've contributed to world class editorial content and execution for global brands including **Barclays, Samsung, Deckers (UGG, HOKA, TEVA) and John Lewis**, managing high-volume content pipelines, digital transformation, technical deployment, design development and site wide migrations.
 
-My core expertise lies in headless CMS platforms including **Adobe Experience Manager (AEM), WordPress, Salesforce, Drupal, Core Media, and Shopify** alongside programming languages like HTML and CSS. I’ve led web operations, digital production, and UI implementation across cross functional teams, ensuring content is not only well managed but also user optimised, accessible, and performance driven.
+My core expertise lies in headless CMS platforms including **Adobe Experience Manager (AEM), WordPress, Salesforce, Drupal, Core Media, and Shopify** alongside programming languages like HTML and CSS. I’ve led web operations, digital production, and UI implementation across cross functional teams, ensuring content is not only well managed but also user optimised, accessible, and performance driven. Additionally, I have experience managing **DAM and PIM systems**, ensuring seamless integration of digital assets and product data to enhance e-commerce performance and customer experience.
 
 ---
 
@@ -17,13 +17,13 @@ My core expertise lies in headless CMS platforms including **Adobe Experience Ma
 - 👟 **Deckers** – *Jr Digital Content Producer* (2018–2019)  
 - 🛍️ **John Lewis** – *Assistant Online Merchandiser* (2017–2018)  
 - 🛍️ **John Lewis** – *Online Product Assistant* (2016–2017)
-- 🎓 Internships –  Stella McCartney, Liberty, Reiss (2016-)
+- 🎓 **Internships** –  Stella McCartney, Liberty, Reiss (2016-)
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 - **CMS Platforms:** AEM • WordPress • Salesforce • Shopify • Core Media • Drupal <br>
-- **Frontend:** HTML • CSS <br>
+- **Programming Languages:** HTML • CSS <br>
 - **Design & Assets:** Adobe Creative Suite • Figma • Canva • DAM Systems • PIM <br>
 - **Analytics:** Google Analytics • Content Square • Adobe Analytics • Hotjar <br>
 - **Workflow & Dev:** Trello • JIRA • Asana • Workfront • Monday <br>
