@@ -38,18 +38,6 @@ My core expertise lies in headless CMS platforms including **Adobe Experience Ma
 - **🎨 Design & User Experience:** Design Execution • UI Design Accessibility • Usability Improvements <br>
 - **🤝🏾 Collaboration & Project Support:** Project Briefing • Creative Workflow Optimisation • Performance Tracking • Quality Assurance • Stakeholder Management <br>
 
-- **🌐 Web & CMS:** <br>
-Web Consultation • CMS Implementation • Web Setup • Responsive & Mobile-Optimised Design • Migration • Technical Deployment • Platform Maintenance  
-
-- **🧠 Content:** <br>
-Asset Management • Content Delivery • SEO-Ready Content • Digital Audit  
-
-- **🎨 Design & User Experience:** <br>
-Design Execution • UI Design • Accessibility • Usability Improvements  
-
-- **🤝🏾 Collaboration & Project Support:** <br>
-Project Briefing • Creative Workflow Optimisation • Performance Tracking • Quality Assurance • Stakeholder Management
-  
 ---
 
 ### 🛠️ Languages & Tools
