@@ -33,30 +33,19 @@ My core expertise lies in headless CMS platforms including **Adobe Experience Ma
 
 ### 🧩 Freelance Services
 
-- 🌐 Web Consultation • CMS Implementation
-- 🔧 Web Setup • Responsive Design • Optimisation
-- 🧠 Asset Management • Content Delivery • UI
-- 📈 SEO-Ready Content • A/B Testing • Analytics
-- 🌍 Workflows Optimisation • Briefing • Design Execution
-- ✍🏾 Migration • Digital Transformation • Technical Deployment  
-- 🎯 Cross-functional Team Support (design/dev/marketing/product)
-- 🧪 Performance Tracking • QA • Customer Journey Analysis & Digital Audit
-
 - **🌐 Web & CMS**
-- • Web Consultation & CMS Implementation
-- • Web Setup, Responsive Design & Optimisation
-- • Migration & Technical Deployment
+-  Web Consultation • CMS Implementation
+-  Web Setup • Responsive Design • Optimisation
+-  Migration • Technical Deployment
 - **🧠 Content & Asset Management**
-- • Asset Management & Content Delivery
-- • SEO-Ready Content, A/B Testing & Analytics
-- • Digital Transformation
-- **🎨 Design & User Experience**
-- • UI Design & Design Execution
-- • Briefing & Creative Workflow Optimisation
-- • Customer Journey Analysis & Digital Audit
+- Asset Management • Content Delivery • UI
+- 📈 SEO-Ready Content • Design Execution • Digital Audit
 - **🤝🏾 Collaboration & Project Support**
-- • Cross-Functional Team Support (Design / Dev / Marketing / Product)
-- • Performance Tracking & Quality Assurance
+- Briefing • Creative Workflow Optimisation
+- Cross-Functional Team Support (Design / Dev / Marketing / Product)
+- Performance Tracking • Quality Assurance
+- **🎨 Design & User Experience**
+- Design Execution • 
   
 ---
 
