@@ -70,7 +70,7 @@ My core expertise lies in headless CMS platforms including **Adobe Experience Ma
 
 ### 🌟 About Me – Beyond the Code
 
-- 🫶🏾 Volunteer — supporting homeless & community projects, driven by a passion for giving back
+- 🫶🏾 Volunteer — Supporting homeless & community projects, driven by a passion for giving back
 - 🌍 Traveled to **40+ countries** — I thrive on cultural discovery and global inspiration
 - 🏝️ Island hopper — Always chasing sunshine, sea views, and strong Wi-Fi 
 - 🍵 Matcha lover — My choice of fuel, essential to my workflow
