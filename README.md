@@ -10,7 +10,7 @@ My core expertise lies in headless CMS platforms including **Adobe Experience Ma
 ---
 
 ### 💼 Career Snapshot
-- 🧑🏽‍💻 **Freelance** – *Digital Content Manager* (2024-2025) via own Ltd company
+- 🧑🏽‍💻 **Freelance** – *Digital Content Consultant* (2024-2025) via own Ltd company
 - 🌍 **Career Break** – *Travelling Asia, Australia, Africa, Europe, and the Middle East* (2023–2024) 
 - 🏦 **Barclays** – *Assistant Vice President, Digital Content Manager* (2022–2023)  
 - 📱 **Samsung** – *Digital Content Manager* (2021–2022)  
